@@ -1,9 +1,10 @@
-title: Résumé
-baseurl: "/resume/"
+title: Resume of Beibei Zhang
+baseurl: ''
 exclude:
   - README.md
-  - "README_zh-CN.md"
+  - 'README_zh-CN.md'
   - LICENSE
   - Gemfile
   - Gemfile.lock
   - /script
+  - 'resume_zh-CN.html'

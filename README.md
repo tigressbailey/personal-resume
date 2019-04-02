@@ -1,15 +1,12 @@
-# Crisp Minimal Résumé
-
-![](https://travis-ci.org/crispgm/resume.svg)
-![](https://img.shields.io/badge/powered%20by-jekyll-blue.svg)
-
 ## Introduction
 
 [English](/README.md) [简体中文](/README_zh-CN.md)
 
-This is a responsive minimal résumé template made by Crisp, powered by [Jekyll](http://jekyllrb.com/).
+My resume uses Crisp Minimal Resume.
 
-You may config all the data in `yaml` and make it your own résumé. Then, you might use on GitHub Pages, your website, or wherever you want.
+This is a responsive minimal Resume template made by Crisp, powered by [Jekyll](http://jekyllrb.com/).
+
+You may config all the data in `yaml` and make it your own Resume. Then, you might use on GitHub Pages, your website, or wherever you want.
 
 [DEMO](https://crispgm.github.io/resume/resume.html)
 
@@ -109,9 +106,7 @@ The Jekyll project members have been discussed the `jekyll extract` command and 
 
 ## Showcases
 
-Feel free to add yours here.
-
-* [David Zhang](https://crispgm.com/resume/)
+My Credits to [David Zhang](https://crispgm.com/resume/)
 
 ## License
 
