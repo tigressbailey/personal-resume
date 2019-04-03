@@ -38,7 +38,7 @@ experience:
     description: '负责集团公司信息系统的开发。'
 projects:
   - name: 'POS'
-    description: '使用React和React Native开发系统的核心功能。 搭建项目技术栈，包括框架/Webpack/ESlint/Stylelint等等。使用Git hooks和lintstaged避免低质量的代码提交。识别项目技术风险和关键路径。帮助团队成员解决编码的问题以及各种跨平台问题. 使用Jest和Enzyme并保证项目的单元测试覆盖率高于百分之98.'
+    description: '使用React和React Native开发系统的核心功能。 搭建前端持续集成服务器以及Jenkins Job。 搭建项目技术栈，包括框架/Webpack/ESLint/StyleLint等等。使用Git hooks和Lintstaged避免低质量的代码提交。识别项目技术风险和关键路径。帮助团队成员解决编码的问题以及各种跨平台问题. 使用Jest和Enzyme并保证项目的单元测试覆盖率高于百分之98.'
     contribution: '前端Lead'
   - name: 'Max Galaxy'
     description: '辅助项目经理在项目成员组建期间技术面试符合条件的前端开发工程师，并担任他们的mentor及指导其该如何正确地在scrum的项目管理模式下工作；使用Ember在项目核心模块中进行重要功能的开发工作, 并与团队一起努力，顺利按照roadmap按时保质地发布了3个版本。配合北美的架构师完成前端技术选型的工作，对Mocha + chai的Unit tests测试进行了补充，使得项目的测试覆盖率高于95%；建立代码规范和命名规范，ESLint / BEM + Stylelint等等，提高项目团队编码的统一性并提升JavaScript和Sass的效率。担任大量代码审查工作， 指导前端工程师正确规范地写编码。'
