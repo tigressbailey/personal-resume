@@ -1,55 +1,65 @@
-title: "简历"
-name: "王小二"
-jobtitle: "高级软件研发工程师"
+title: '简历'
+name: '张蓓蓓'
+jobtitle: '开发副经理'
 contact:
   - icon: fa-envelope
-    text: wangxiao@er.com
-  - icon: fa-phone-square
-    text: (+86) 13800138000
+    text: bailey.zhang1986@gmail.com
+    link: mailto:bailey.zhang1986@gmail.com
+  # - icon: fa-phone-square
+  #   text: your-phone-num
   - icon: fa-globe
-    text: wangxiaoer.com
-    link: https://crispgm.github.io/resume/resume_zh-CN.html
+    text: tigressbailey.github.io
+    link: https://tigressbailey.github.io/
   - icon: fa-github
-    text: wangxiaoer
-    link: https://github.com/crispgm/resume
-education:
-  - university: "攻城科技大学"
-    duration: "2011/07 - 2012/12"
-    location: "北京"
-    major: "工学硕士，计算机科学与技术"
-  - university: "攻城大学"
-    duration: "2007/08 - 2011/06"
-    location: "南京"
-    major: "工学学士，计算机科学与技术"
+    text: github.com/tigressbailey
+    link: https://github.com/tigressbailey
+  - icon: fa-linkedin
+    text: bailey-zhang
+    link: https://www.linkedin.com/in/bailey-zhang/
 skills:
-  - title: "程序设计"
-    items: "C/C++, Java, Python, Ruby, PHP, HTML/CSS, JavaScript, Vue"
-  - title: "计算机系统"
-    items: "Linux/Unix, 设计模式, 敏捷开发, 面向对象, 数据库设计, 多线程编程"
-  - title: "其它"
-    items: "Sublime Text, git, shell"
+  - title: '前端开发'
+    items: 'ES6 & HTML5 & CSS3, Web performance, React, React native, Ember, ESLint, Jest. Mocha'
+  - title: 'DevOps'
+    items: 'Webpack, Jenkins, Travis, setup ENV in linux based server'
+  - title: '管理'
+    items: '解决问题, 敏捷开发, 瀑布开发, 招聘, 激发团队能力'
 experience:
-  - title: "高级研发工程师"
-    duration: "2016/06 - 至今"
-    company: "T 公司"
-    description: "我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。"
-  - title: "研发工程师"
-    duration: "2013/01 - 2016/05"
-    company: "A 公司"
-    description: "我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。"
-  - title: "研发工程师（实习）"
-    duration: "2011/02 - 2012/12"
-    company: "B 公司"
-    description: "我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。"
+  - title: '开发副经理'
+    duration: '2015/10 - 至今'
+    company: '活跃网络'
+    description: '由于工作表现出色，连续升职到副经理并带领一个近10人的前端团队按时保质交付产品。培养团队成员。撰写前端代码审查，开发自测点等等的文档并指导团队成员在统一标准下提交高质量的代码。负责维护和优化项目CI服务器和Jenkins job。负责维护项目依赖项目以及定期升级依赖项目。负责产品的性能优化。'
+  - title: '高级研发工程师'
+    duration: '2014/08 - 2015/10'
+    company: '澳新银行'
+    description: '负责推广金融产品的信息产品的开发。参与重构anz.com。培养初级开发工程师。'
+  - title: '研发工程师'
+    duration: '2009/07 - 2014/08'
+    company: '中国中铁二院'
+    description: '负责集团公司信息系统的开发。'
 projects:
-  - name: "Crisp Resume"
-    description: "一个基于 Jekyll 的极简风格响应式简历模板"
-    contribution: "贡献者"
-  - name: "你的项目"
-    description: "一个非常强大的开源项目，使用了若干强力技术，大大提升了生产力"
-    contribution: "创建者和维护者"
+  - name: 'POS'
+    description: '使用React和React Native开发系统的核心功能。 搭建项目技术栈，包括框架/Webpack/ESlint/Stylelint等等。使用Git hooks和lintstaged避免低质量的代码提交。识别项目技术风险和关键路径。帮助团队成员解决编码的问题以及各种跨平台问题. 使用Jest和Enzyme并保证项目的单元测试覆盖率高于百分之98.'
+    contribution: '前端Lead'
+  - name: 'Max Galaxy'
+    description: '辅助项目经理在项目成员组建期间技术面试符合条件的前端开发工程师，并担任他们的mentor及指导其该如何正确地在scrum的项目管理模式下工作；使用Ember在项目核心模块中进行重要功能的开发工作, 并与团队一起努力，顺利按照roadmap按时保质地发布了3个版本。配合北美的架构师完成前端技术选型的工作，对Mocha + chai的Unit tests测试进行了补充，使得项目的测试覆盖率高于95%；建立代码规范和命名规范，ESLint / BEM + Stylelint等等，提高项目团队编码的统一性并提升JavaScript和Sass的效率。担任大量代码审查工作， 指导前端工程师正确规范地写编码。'
+    contribution: '前端Lead'
+  - name: 'Active.com'
+    description: '针对项目编码不规范、维护困难的问题，建立了编码规范，并对整个项目的前端代码进行了重构，使得项目从一个一盘散沙般的状态变得非常健壮；针对项目加载速度慢的问题，带领项目组的前端成员对项目的性能进行了非常有效的提升;desktop view上STRT从3.5秒提升到了2秒，speed index从7500降到2500；在mobile view上STRT从9.5秒提升到了3.6秒，speed index从15555提升到了5202。附：webpagetest.org测试的对比视频保存在我的github: https://tigressbailey.github.io/performance-comparison/index.html 针对项目的改版需求，使用React对项目进行重构，独立完成前端boilerplate的搭建，并对项目的整个route，bundle，Less, CSS module，react编码规范等进行并完成了决策的制定。打包工具使用webpack v1。随着项目的深入，定期升级webpack，从v2 到 v3，充分利用webpack的tree shaking等功能进一步减少bundle的size。此外，在项目推广react，指导没有用过react的同事如何正确编码，正确使用react并且使用jest+ enzyme撰写Unit tests，使得项目目前的测试覆盖率为100%；配合项目经理和产品经理，利用自己外语听说读写的能力与北美同事进行了非常好的合作，使得中国的前端团队和北美的团队能够顺利地沟通；针对项目新feature的需求，完成整个前端工作的50%，是一般同事的两倍多。定期地组建代码审查会议，指导前端成员如何正确地编码。'
+    contribution: '前端Lead'
+  - name: 'ANZ.com / WealthInsights'
+    description: 负责澳新银行(ANZ.com)官方网站的开发与维护，使用IBM公司WCM系统服务澳洲，新西兰与亚太地区，后由于工作表现优异进入本行首个敏捷团队 - Pangaroo(Panda and Kangaroo)担任前端开发工作并被提升为高级开发工程师，与澳洲同事们紧密合作，使用Adobe公司AEM框架，HTML5，CSS3，LESS，Bootstrap, Foundation，Javascript，Jquery以及类似Scrum的敏捷项目管理方法为不同的Business Unit开发Web站点。在此期间，利用工作之余，开发了基于D3.js，Jquery等框架的小应用并给来访的时任银行COO，Senior Manager做了汇报演讲。
+    contribution: '高级开发工程师'
+  - name: '成都地铁车辆检修管理信息系统'
+    contribution: '开发工程师'
+  - name: '海南东环线铁路检修信息系统'
+    contribution: '开发工程师'
 languages:
-  - name: "英语"
-    proficiency: "工作熟练"
-  - name: "中文"
-    proficiency: "母语"
+  - name: '英语'
+    proficiency: '专业'
+  - name: '中文'
+    proficiency: '母语'
+education:
+  - university: '成都信息工程大学'
+    duration: '2005/09 - 2009/07'
+    location: '成都'
+    major: '信息管理与信息系统'

@@ -1,9 +1,10 @@
 title: Resume of Beibei Zhang
 name: Bailey Zhang
-jobtitle:
+jobtitle: Associate Manager, Software Development
 contact:
   - icon: fa-envelope
     text: bailey.zhang1986@gmail.com
+    link: mailto:bailey.zhang1986@gmail.com
   # - icon: fa-phone-square
   #   text: your-phone-num
   - icon: fa-globe
@@ -23,11 +24,11 @@ skills:
   - title: Management
     items: Problem solving, Agile, Waterfall, Hiring, Team motivation
 experience:
-  - title: Associate manager, software development
+  - title: Associate Manager, Software Development
     duration: Oct 2015 - Now
     company: Active Network, Chengdu
     description: I've been promoted twice since I worked for Active Network. Now my major responsibilities are - Contribute core functionalities to the codebase; Lead a frontend team to deliver product with good quaility; Setup/Maintain the CI/Server and codebase; Guide the team members for keeping the good coding style and code review standard; Established code specifications and naming conventions, maintained project dependencies and updated them to the latest version regularly for a better maintainability and scalability; Encourage the members and let them has a good self-motivation habit; Provided the guidance to robust the members' problem-solving skill/coding skill and communication skills; Communicated with colleagues in Canada and the United States through emails/conference calls so as to ensure that the information of the China team and the North American team were consistent;
-  - title: Senior Software developer
+  - title: Senior Software Developer
     duration: Aug 2014 - Oct 2015
     company: ANZ
     description: Responsible for the development and maintenance of the products of ANZ.com, using IBM's system to serve Australia, New Zealand and Asia Pacific. Later, due to excellent work performance, entered the Bank's first agile team as a front-end developer and was promoted to a senior development engineer. During tenure, worked closely with Australian colleagues to develop Web sites for different Business Units.
@@ -42,19 +43,19 @@ projects:
     contribution: Front-end Lead developer
   - name: Max Galaxy
     description: Used Ember to develop important functions in the project core module. Responsible for the tech stack of the project included framework update, 3rd parties defects and lint rules etc.. Served as the mentor of the junior developers and guide them how to correctly work in the scrum project management mode.Customized broccoli for the project. Established code specifications and naming conventions, ESLint / BEM + Stylelint, etc., to improve the uniformity of project team coding and enhance the efficiency of JavaScript and Sass. Established the coding specification and reconstructed the front-end code of the whole project, making the project very robust from a loose state. Supplemented Mocha + chai’s Unit tests test, making the project’s test coverage higher than 95%.
-    contribution: Front-end Lead developer
+    contribution: Front-end Lead Developer
   - name: Active.com
     description: Lead the front-end members of the active.com project team to improve the performance of the project very effectively; in the desktop view, the STRT increased from 3.5 seconds to 2 seconds, and the speed index dropped from 7500 to 2500; In the mobile view, the STRT increased from 9.5 seconds to 3.6 seconds, and the speed index increased from 15555 to 5202. Used React to rebuild the project, independently completed the construction of the front-end boilerplate, and finished the decision making of the project’s entire route, bundle, Less, CSS module, and react coding specifications. The packaging tool was webpack v1. As the project progressed, regularly upgraded webpack. From v2 to v3, took full advantage of webpack’s tree shaking and other features to further reduce the size of the bundle. In addition, in the project promotion react, instructed colleagues who have not used react to correctly code, use react and write unit tests using jest + enzyme, so that the current test coverage of the project was 100%. (Attached webpagetest.org test comparison video at https://tigressbailey.github.io/performance-comparison/index.html)
     contribution: Front-end Lead developer
   - name: Active.com
     description: Lead the front-end members of the active.com project team to improve the performance of the project very effectively; in the desktop view, the STRT increased from 3.5 seconds to 2 seconds, and the speed index dropped from 7500 to 2500; In the mobile view, the STRT increased from 9.5 seconds to 3.6 seconds, and the speed index increased from 15555 to 5202. Used React to rebuild the project, independently completed the construction of the front-end boilerplate, and finished the decision making of the project’s entire route, bundle, Less, CSS module, and react coding specifications. The packaging tool was webpack v1. As the project progressed, regularly upgraded webpack. From v2 to v3, took full advantage of webpack’s tree shaking and other features to further reduce the size of the bundle. In addition, in the project promotion react, instructed colleagues who have not used react to correctly code, use react and write unit tests using jest + enzyme, so that the current test coverage of the project was 100%. (Attached webpagetest.org test comparison video at https://tigressbailey.github.io/performance-comparison/index.html)
-    contribution: Front-end Lead developer
+    contribution: Front-end Lead Developer
   - name: ANZ Wealth Insights
     description: ANZ Private Insights offers tailored personal wealth content for private banking clients.
-    contribution: Senior developer
+    contribution: Senior Developer
   - name: ANZ Your World
     description: Your World was designed with this in mind, from stories that motivate you in every-day life to ideas that inspire you to start something new.
-    contribution: Senior developer
+    contribution: Senior Developer
   - name: Chengdu Metro Vehicle Maintenance Management Information System
     contribution: Developer
   - name: Hainan East Central Railway Maintenance Management Information System
