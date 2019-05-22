@@ -1,6 +1,6 @@
 title: Resume of Beibei Zhang
 name: Bailey Zhang
-jobtitle: Associate Manager, Software Development
+jobtitle: Manager, Software Development
 contact:
   - icon: fa-envelope
     text: bailey.zhang1986@gmail.com
@@ -24,10 +24,10 @@ skills:
   - title: Management
     items: Problem solving, Agile, Waterfall, Hiring, Team motivation
 experience:
-  - title: Associate Manager, Software Development
+  - title: Manager, Software Development
     duration: Oct 2015 - Now
     company: Active Network, Chengdu
-    description: I've been promoted twice since I worked for Active Network. Now my major responsibilities are - Contribute core functionalities to the codebase; Lead a frontend team to deliver product with good quaility; Setup/Maintain the CI/Server and codebase; Guide the team members for keeping the good coding style and code review standard; Established code specifications and naming conventions, maintained project dependencies and updated them to the latest version regularly for a better maintainability and scalability; Encourage the members and let them has a good self-motivation habit; Provided the guidance to robust the members' problem-solving skill/coding skill and communication skills; Communicated with colleagues in Canada and the United States through emails/conference calls so as to ensure that the information of the China team and the North American team were consistent;
+    description: I've been promoted 3 times since I worked for Active Network. Now my major responsibilities are - Contribute core functionalities to the codebase; Lead a frontend team to deliver product with good quaility; Setup/Maintain the CI/Server and codebase; Guide the team members for keeping the good coding style and code review standard; Established code specifications and naming conventions, maintained project dependencies and updated them to the latest version regularly for a better maintainability and scalability; Encourage the members and let them has a good self-motivation habit; Provided the guidance to robust the members' problem-solving skill/coding skill and communication skills; Communicated with colleagues in Canada and the United States through emails/conference calls so as to ensure that the information of the China team and the North American team were consistent;
   - title: Senior Software Developer
     duration: Aug 2014 - Oct 2015
     company: ANZ
