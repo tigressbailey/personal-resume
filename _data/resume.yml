@@ -38,6 +38,12 @@ experience:
     description: Responsible for the management and control of UI design, writing relevant UI design documents, and providing the development of project style guides.
 
 projects:
+  - name: Eloquent Poker
+    description: This is one of my side project. It is open source to the community and free to everyone. Used React 16.9, Socket.IO, Express, Node-Cache and Nginx. It has already adopt by a couple of teams.
+    contribution: Front-end Lead developer
+  - name: Facility
+    description: Used React 16.8 to develop important functions in the project core module. Responsible for setup the tech stack of the projects included frameworks, technical stacks and lint rules and config Webpack etc.. Organize tasks and stories with North America team members. Identify the technical critical path and risks. Help team members to resolve coding problems.
+    contribution: Front-end Lead developer
   - name: POS
     description: Used React and React Native to develop important functions in the project core module. Responsible for setup the tech stack of the projects included frameworks, technical stacks and lint rules and config Webpack etc.. Avoid inproper commits using git hooks with lintstaged. Identify the technical critical path and risks. Help team members to resolve coding problems. Supplemented Jest + Enzyme Unit tests test, making the project’s test coverage higher than 98%.
     contribution: Front-end Lead developer

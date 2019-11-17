@@ -37,6 +37,12 @@ experience:
     company: '中国中铁二院'
     description: '负责集团公司信息系统的开发。'
 projects:
+  - name: 'Eloquent poker'
+    description: '这是我的side project。一个开源的免费敏捷在线协同估算网站。使用React 16.9, Socket.IO, Express, Node-Cache 和Nginx。目前该项目已经被多个团队采用。'
+    contribution: '开发'
+  - name: 'Facility'
+    description: '使用React 16.8 开发系统的核心功能。 搭建前端持续集成服务器以及Jenkins Job。 搭建项目技术栈，包括框架/Webpack/ESLint/StyleLint等等。使用Git hooks和Lintstaged避免低质量的代码提交。识别项目技术风险和关键路径。帮助团队成员解决编码的问题以及各种跨平台问题. 使用Jest和Enzyme并保证项目的单元测试覆盖率高于百分之98.'
+    contribution: '前端Lead'
   - name: 'POS'
     description: '使用React和React Native开发系统的核心功能。 搭建前端持续集成服务器以及Jenkins Job。 搭建项目技术栈，包括框架/Webpack/ESLint/StyleLint等等。使用Git hooks和Lintstaged避免低质量的代码提交。识别项目技术风险和关键路径。帮助团队成员解决编码的问题以及各种跨平台问题. 使用Jest和Enzyme并保证项目的单元测试覆盖率高于百分之98.'
     contribution: '前端Lead'
