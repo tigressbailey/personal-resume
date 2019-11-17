@@ -40,7 +40,7 @@ experience:
 projects:
   - name: Eloquent Poker
     description: This is one of my side project. It is open source to the community and free to everyone. Used React 16.9, Socket.IO, Express, Node-Cache and Nginx. It has already adopt by a couple of teams.
-    contribution: Front-end Lead developer
+    contribution: Developer
   - name: Facility
     description: Used React 16.8 to develop important functions in the project core module. Responsible for setup the tech stack of the projects included frameworks, technical stacks and lint rules and config Webpack etc.. Organize tasks and stories with North America team members. Identify the technical critical path and risks. Help team members to resolve coding problems.
     contribution: Front-end Lead developer
