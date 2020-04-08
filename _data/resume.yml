@@ -2,6 +2,9 @@ title: Resume of Beibei Zhang
 name: Bailey Zhang
 jobtitle: Manager, Software Development
 contact:
+  - icon: fa-print
+    text: Print to PDF
+    link: javascript:window.print()
   - icon: fa-envelope
     text: tigressbailey@gmail.com
     link: mailto:tigressbailey@gmail.com
@@ -22,12 +25,12 @@ skills:
   - title: DevOps
     items: Webpack, Jenkins, Travis, setup ENV in linux based server
   - title: Management
-    items: Problem solving, Agile, Waterfall, Hiring, Team motivation
+    items: Problem solving, Agile, Collaboration, Hiring, Team motivation
 experience:
   - title: Manager, Software Development
     duration: Oct 2015 - Now
     company: Active Network, Chengdu
-    description: I've been promoted 3 times since I worked for Active Network. Now my major responsibilities are - Contribute core functionalities to the codebase; Lead a frontend team to deliver product with good quaility; Setup/Maintain the CI/Server and codebase; Guide the team members for keeping the good coding style and code review standard; Established code specifications and naming conventions, maintained project dependencies and updated them to the latest version regularly for a better maintainability and scalability; Encourage the members and let them has a good self-motivation habit; Provided the guidance to robust the members' problem-solving skill/coding skill and communication skills; Communicated with colleagues in Canada and the United States through emails/conference calls so as to ensure that the information of the China team and the North American team were consistent;
+    description: I've been promoted 3 times since I worked for Active Network. Now my major responsibilities are - Contribute core functionalities to the codebase; Lead a frontend team to deliver product with good quality; Setup/Maintain the CI/Server and codebase; Guide the team members for keeping the good coding style and code review standard; Established code specifications and naming conventions, maintained project dependencies and updated them to the latest version regularly for a better maintainability and scalability; Encourage the members and let them has a good self-motivation habit; Provided the guidance to robust the members' problem-solving skill/coding skill and communication skills; Communicated with colleagues in Canada and the United States through emails/conference calls so as to ensure that the information of the China team and the North American team were consistent;
   - title: Senior Software Developer
     duration: Aug 2014 - Oct 2015
     company: ANZ
@@ -40,12 +43,12 @@ experience:
 projects:
   - name: Eloquent Poker
     description: This is one of my side project. It is open source to the community and free to everyone. Used React 16.9, Socket.IO, Express, Node-Cache and Nginx. It has already adopt by a couple of teams.
-    contribution: Developer
+    contribution: Creator and maintainer
   - name: Facility
     description: Used React 16.8 to develop important functions in the project core module. Responsible for setup the tech stack of the projects included frameworks, technical stacks and lint rules and config Webpack etc.. Organize tasks and stories with North America team members. Identify the technical critical path and risks. Help team members to resolve coding problems.
     contribution: Front-end Lead developer
   - name: POS
-    description: Used React and React Native to develop important functions in the project core module. Responsible for setup the tech stack of the projects included frameworks, technical stacks and lint rules and config Webpack etc.. Avoid inproper commits using git hooks with lintstaged. Identify the technical critical path and risks. Help team members to resolve coding problems. Supplemented Jest + Enzyme Unit tests test, making the project’s test coverage higher than 98%.
+    description: Used React and React Native to develop important functions in the project core module. Responsible for setup the tech stack of the projects included frameworks, technical stacks and lint rules and config Webpack etc.. Avoid improper commits using git hooks with lintstaged. Identify the technical critical path and risks. Help team members to resolve coding problems. Supplemented Jest + Enzyme Unit tests test, making the project’s test coverage higher than 98%.
     contribution: Front-end Lead developer
   - name: Max Galaxy
     description: Used Ember to develop important functions in the project core module. Responsible for the tech stack of the project included framework update, 3rd parties defects and lint rules etc.. Served as the mentor of the junior developers and guide them how to correctly work in the scrum project management mode.Customized broccoli for the project. Established code specifications and naming conventions, ESLint / BEM + Stylelint, etc., to improve the uniformity of project team coding and enhance the efficiency of JavaScript and Sass. Established the coding specification and reconstructed the front-end code of the whole project, making the project very robust from a loose state. Supplemented Mocha + chai’s Unit tests test, making the project’s test coverage higher than 95%.

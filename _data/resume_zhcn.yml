@@ -2,6 +2,9 @@ title: '简历'
 name: '张蓓蓓'
 jobtitle: '开发经理'
 contact:
+  - icon: fa-print
+    text: 打印PDF
+    link: javascript:window.print()
   - icon: fa-envelope
     text: tigressbailey@gmail.com
     link: mailto:tigressbailey@gmail.com
@@ -22,7 +25,7 @@ skills:
   - title: 'DevOps'
     items: 'Webpack, Jenkins, Travis, setup ENV in linux based server'
   - title: '管理'
-    items: '解决问题, 敏捷开发, 瀑布开发, 招聘, 激发团队能力'
+    items: '解决问题, 敏捷开发，合作，招聘, 激发团队能力'
 experience:
   - title: '开发经理'
     duration: '2015/10 - 至今'
