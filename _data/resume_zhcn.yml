@@ -1,6 +1,6 @@
-title: '简历'
+title: ' 张蓓蓓 - 简历'
 name: '张蓓蓓'
-jobtitle: '开发经理'
+jobtitle: '前端技术经理'
 contact:
   - icon: fa-print
     text: 打印PDF
@@ -21,16 +21,40 @@ contact:
     link: https://www.linkedin.com/in/bailey-zhang/
 skills:
   - title: '前端开发'
-    items: 'ES6 & HTML5 & CSS3, Web performance, React, React native, Ember, ESLint, Jest. Mocha'
+    items: Web performance optimization / React / React native / Ember / StyleLint / ESLint / Jest / Mocha.
+  - title: '架构'
+    items: 依赖管理 / 工程化 / 强制限定边界 / 模块交互 / UI组件结构化 / 设计体系管理 / 代码风格管理.
   - title: 'DevOps'
-    items: 'Webpack, Jenkins, Travis, setup ENV in linux based server'
+    items: Webpack / Jenkins / Gitlab CI / Travis
   - title: '管理'
     items: '解决问题, 敏捷开发，合作，招聘, 激发团队能力'
 experience:
+  - title: '前端技术经理'
+    duration: '2020/08 - 至今'
+    company: '明略科技'
+    description:
+      管理金数据的前端团队。
+      <h5>- 负责前端总体架构和解决产品问题;</h5>
+      <h5>- 与产品负责人，产品经理，技术总监以及其他项目相关负责人紧密合作，确保功能和项目按时交付；</h5>
+      <h5>- 制定前端项目开发生命周期，落实敏捷开发到日常工作中;</h5>
+      <h5>- 优化前端工程化和持续集成流程，提升开发效率;</h5>
+      <h5>- 优化和监控产品性能;</h5>
+      <h5>- 负责工作规划和前端团队资源管理并合理分配任务;</h5>
+      <h5>- 持续培养团队，提高团队竞争力和交付质量;</h5>
+      <h5>- 制定编码规范，编码风格规范以及单元测试规范;</h5>
   - title: '开发经理'
-    duration: '2015/10 - 至今'
+    duration: '2015/10 - 2020/07'
     company: '活跃网络'
-    description: '由于工作表现出色，连续升职到经理并带领一个近10人的前端团队按时保质交付产品。培养团队成员。撰写前端代码审查，开发自测点等等的文档并指导团队成员在统一标准下提交高质量的代码。负责维护和优化项目CI服务器和Jenkins job。负责维护项目依赖项目以及定期升级依赖项目。负责产品的性能优化。'
+    description: 
+      管理Platform的前端团队.
+      <h5>- 负责前端项目架构和性能优化;</h5>
+      <h5>- 成功交付三个项目并做好质量把控;</h5>
+      <h5>- 搭建和维护项目持续集成工具和流程;</h5>
+      <h5>- 撰写前端代码审查，开发自测点等等的文档并指导团队成员在统一标准下提交高质量的代码;</h5>
+      <h5>- 负责维护项目依赖项目以及定期升级依赖项目，保持项目的可扩展性;</h5>
+      <h5>- 激发团队成员潜力，培养良好的开发习惯;</h5>
+      <h5>- 指导团队成员，提高成员的解决问题， 编码能力和沟通能力;</h5>
+      <h5>- 负责和美国，英国以及加拿大同事通过电话会议，邮件方式沟通项目进度，计划以及风险，保持良好的合作关系;</h5>
   - title: '高级研发工程师'
     duration: '2014/08 - 2015/10'
     company: '澳新银行'
@@ -40,15 +64,15 @@ experience:
     company: '中国中铁二院'
     description: '负责集团公司信息系统的开发。'
 projects:
-  - name: 'Eloquent poker'
-    description: '这是我的side project。一个开源的免费敏捷在线协同估算网站。使用React 16.9, Socket.IO, Express, Node-Cache 和Nginx。目前该项目已经被多个团队采用。'
-    contribution: '开发'
+  - name: '金数据'
+    description: 金数据是中国第二大表单管理系统，拥有700万免费，付费以及企业级客户。负责所有产品线的前端开发相关工作。
+    contribution: '技术经理'
   - name: 'Facility'
     description: '使用React 16.8 开发系统的核心功能。 搭建前端持续集成服务器以及Jenkins Job。 搭建项目技术栈，包括框架/Webpack/ESLint/StyleLint等等。使用Git hooks和Lintstaged避免低质量的代码提交。识别项目技术风险和关键路径。帮助团队成员解决编码的问题以及各种跨平台问题. 使用Jest和Enzyme并保证项目的单元测试覆盖率高于百分之98.'
-    contribution: '前端Lead'
+    contribution: '开发经理'
   - name: 'POS'
     description: '使用React和React Native开发系统的核心功能。 搭建前端持续集成服务器以及Jenkins Job。 搭建项目技术栈，包括框架/Webpack/ESLint/StyleLint等等。使用Git hooks和Lintstaged避免低质量的代码提交。识别项目技术风险和关键路径。帮助团队成员解决编码的问题以及各种跨平台问题. 使用Jest和Enzyme并保证项目的单元测试覆盖率高于百分之98.'
-    contribution: '前端Lead'
+    contribution: '开发经理'
   - name: 'Max Galaxy'
     description: '辅助项目经理在项目成员组建期间技术面试符合条件的前端开发工程师，并担任他们的mentor及指导其该如何正确地在scrum的项目管理模式下工作；使用Ember在项目核心模块中进行重要功能的开发工作, 并与团队一起努力，顺利按照roadmap按时保质地发布了3个版本。配合北美的架构师完成前端技术选型的工作，对Mocha + chai的Unit tests测试进行了补充，使得项目的测试覆盖率高于95%；建立代码规范和命名规范，ESLint / BEM + Stylelint等等，提高项目团队编码的统一性并提升JavaScript和Sass的效率。担任大量代码审查工作， 指导前端工程师正确规范地写编码。'
     contribution: '前端Lead'
