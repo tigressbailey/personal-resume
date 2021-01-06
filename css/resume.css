@@ -103,6 +103,9 @@ section {
   font-size: 1rem;
   line-height: 1.5;
 }
+.block-content h5 {
+  margin: 0.2em 0;
+}
 footer {
   color: #bbbbbb;
   font-size: 1rem;

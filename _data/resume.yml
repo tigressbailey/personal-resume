@@ -30,18 +30,29 @@ skills:
     items: Problem solving / Agile / Collaboration / Hiring / Team motivation
 experience:
   - title: Engineering Manager - Frontend
-    duration: Aug 2020 - Now
+    duration: Aug 2020 - Dec 2020
     company: MININGLAMP Technology, Chengdu
     description: 
-      Managing Goldendata frontend engineers.
-      <h5>- Responsible for the overall project architecture of the front-end and solve problems encountered in the project;</h5>
-      <h5>- Work closely with business stakeholder, product owner, project manager, and technical staff to ensure smooth project delivery.</h5>
-      <h5>- Set up frontend software development life cycle, apply Agile Methodology into daily work/operation;</h5>
-      <h5>- Enhance the engineering infrastructure and accelerate frontend development efficiency;</h5>
-      <h5>- Optimize and tune front-end performance;</h5>
-      <h5>- Responsible for the task allocation and management of the front-end team, and divide tasks according to what the team members are good at;</h5>
-      <h5>- Keep training team to improve their competency and quality of work;</h5>
-      <h5>- Set up coding guideline, coding style guideline and unit test guideline;</h5>
+      Frontend Engineering
+      <h5>- Reduce the recompiling time from 30 seconds to 1 second.</h5>
+      <h5>- Apply fast refresh feature to the multiple entires project.</h5>
+      <h5>- Set up StyleLint and specify all the rules.</h5>
+      <h5>- Set up ESLint and specify all the rules.</h5>
+      <h5>- Apply online debugging ability to the production environment using the hidden sourcemap.</h5>
+      <h5>- Apply Proper logger using Sentry platform.</h5>
+      <h5>- Reduce 2MB Gzipped bundle size</h5>
+      <h5>- Improve 2.5s site loading time. One of the entries’ visual comparison can be found at https://github.com/tigressbailey/performance-comparison/blob/master/form_visual_comparison.mp4 </h5>
+      <h5>- Set up coding guideline, coding style guideline and unit test guideline</h5>
+
+      Managing frontend engineers
+      <h5>- Responsible for the overall project architecture of the front-end and solve problems encountered in the project;<h5>
+      <h5>- Work closely with business stakeholders, product owners, project managers, and technical staff to ensure smooth project delivery;<h5>
+      <h5>- Set up frontend software development life cycle, apply Agile Methodology into daily work/operation;<h5>
+      <h5>- Enhance the engineering infrastructure and accelerate frontend development efficiency;<h5>
+      <h5>- Continuously reduce bug rate.<h5>
+      <h5>- Interviewed almost 10 engineers including junior levels and senior levels.<h5>
+      <h5>- Responsible for the task allocation and management of the front-end team, and divide tasks according to what the team members are good at;<h5>
+      <h5>- Keep training team to improve their competency and quality of work;<h5>
   - title: Manager, Software Development
     duration: Oct 2015 - Jul 2020
     company: Active Network, Chengdu
